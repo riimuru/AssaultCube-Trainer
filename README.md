@@ -1,6 +1,6 @@
 # AssaultCube-Trainer
 
-C++ External DirectX Overlay
+C++ External DirectX Overlay For AssaultCube 1.3.0.0
 
 ## Cheat Features
 
