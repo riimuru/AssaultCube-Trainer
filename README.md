@@ -28,3 +28,5 @@ teamIdOffset = 0x30C;
 playersNumOffset = 0x18EFE4;
 localPlayerOffset = 0x17B0B8;
 ```
+## Screenshots:
+![unknown](https://user-images.githubusercontent.com/57333995/172737153-6901bcd3-8a03-49ec-b04b-191af495b6c1.png)
